@@ -59,3 +59,9 @@ Modulos y pantallas cruciales:
 - El estado/módulo de registro.
 
 
+
+## Cree las pantallas a modo mockup o mimic utilizando alguna AI que genere código en el lenguaje que haya seleccionado en el entregable #1. Si ninguna AI genera para ese lenguaje, entonces proceda a utilizar plantillas para crear las pantallas diseñadas.
+
+# Inicio de Sesión 
+![InicioSesion](./InicioSesion.png)
+
