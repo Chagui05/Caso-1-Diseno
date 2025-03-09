@@ -58,8 +58,10 @@ Modulos y pantallas cruciales:
 - El estado/módulo del historial.
 - El estado/módulo de registro.
 
+## 5
+...
 
-
+## 6
 ### Cree las pantallas a modo mockup o mimic utilizando alguna AI que genere código en el lenguaje que haya seleccionado en el entregable #1. Si ninguna AI genera para ese lenguaje, entonces proceda a utilizar plantillas para crear las pantallas diseñadas.
 
 ## Inicio de Sesión 
@@ -76,3 +78,18 @@ https://preview--minimal-pay-ui.lovable.app/
 
 Se realiza un test de usabilidad en la plataforma de loop11 para evaluar a nuestro publico objetivo con el link directo de la previsualización dada por Loveable 
 ![loop11](loop11.png)
+
+En la siguiente imagen que obtuvimos con las personas que realizaron el test, nos damos cuenta que el lugar de más interacción fue en el saldo de la cuenta, el segundo lugar en las configuraciones de idioma y luminocidad y por ultimo notamos una casi nula interacción en el area de microfono e interacción con la IA
+![Test](test.png)
+
+En un entorno más apropiado para nuestra aplicación, el boton del chat de voz no se ve tan desapercibido y es más utilizado por los usuarios, por lo que su integración en un entorno computacional aun puede recibir mejoras. 
+
+![Celular](celular.png)
+
+### 8 Documenten todo el entregable del punto 1 al 7 en un md file en github, dividiendose el trabajo a su criterio. Debe ser evidente los commits de cada integrante en las diversas secciones del documento md. Solo un md file. En la documentación debe dejar claro las evidencias de que las pruebas de usabilidad se hicieron con personas reales no estudiantes del Tec. Fotografías de personas frente a una computadora no es evidencia, no debe caber duda en la evidencia de que esa persona hizo esa prueba.
+
+#### Las siguientes personas no son estudiantes del TEC y aceptaron participar en la prueba de usabilidad. 
+![imagen1](Imagen1.jpeg)
+![imagen2](Imagen2.jpeg)
+![imagen3](Imagen3.jpeg)
+![imagen4](Imagen4.jpeg)
