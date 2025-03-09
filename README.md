@@ -60,8 +60,19 @@ Modulos y pantallas cruciales:
 
 
 
-## Cree las pantallas a modo mockup o mimic utilizando alguna AI que genere código en el lenguaje que haya seleccionado en el entregable #1. Si ninguna AI genera para ese lenguaje, entonces proceda a utilizar plantillas para crear las pantallas diseñadas.
+### Cree las pantallas a modo mockup o mimic utilizando alguna AI que genere código en el lenguaje que haya seleccionado en el entregable #1. Si ninguna AI genera para ese lenguaje, entonces proceda a utilizar plantillas para crear las pantallas diseñadas.
 
-# Inicio de Sesión 
+## Inicio de Sesión 
+https://preview--paymate-ui.lovable.app/login
 ![InicioSesion](./InicioSesion.png)
 
+## Pantalla Principal 
+https://preview--minimal-pay-ui.lovable.app/
+![Pantalla Principal](PantallaPrincipal.png)
+## Pantalla pricipal Español 
+![PPEspañol](PPEspañol.png)
+
+### 7. Proceda a realizar un test de usabilidad con al menos 3 personas (que no sean estudiantes del Tec), de las pantallas diseñadas utilizando alguna herramienta de testing de usuabilidad digital en la nube, recopile los resultados.
+
+Se realiza un test de usabilidad en la plataforma de loop11 para evaluar a nuestro publico objetivo con el link directo de la previsualización dada por Loveable 
+![loop11](loop11.png)
