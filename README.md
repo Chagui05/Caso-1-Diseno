@@ -56,7 +56,7 @@ Modulos y pantallas cruciales:
 ![registro](regWF.jpg)
 
 ### Wireframe de interacción de voz
-![registro](iawf.jpg)
+![registro](iaWF.jpg)
 
 ## 6.
 
